@@ -9,4 +9,5 @@ export const DEFAULT_USERS = [
   { id: 'cristi', name: 'Cristi', password: 'cristi123',isAdmin: false },
   { id: 'andrei', name: 'Andrei', password: 'andrei123',isAdmin: false },
   { id: 'gabi',   name: 'Gabi',   password: 'gabi123',  isAdmin: false },
+  { id: 'laur',   name: 'Laur',   password: 'laur123',  isAdmin: false },
 ];
